@@ -1,1 +1,2 @@
 This Sales Analytics Dashboard presents a comprehensive overview of sales and profit performance across time periods, regions, categories, and states. The dashboard is designed to support data-driven decision-making by highlighting key business metrics and trends.
+The HR Analytics Dashboard provides a comprehensive view of workforce performance, attrition, attendance, salary distribution, and employee demographics. It is designed to help HR teams monitor employee health, identify risk areas, and support strategic workforce planning.
