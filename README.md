@@ -1,1 +1,1 @@
-# DATA-ANALYTICS_BOOTCAMP_POWER-BI
+This Sales Analytics Dashboard presents a comprehensive overview of sales and profit performance across time periods, regions, categories, and states. The dashboard is designed to support data-driven decision-making by highlighting key business metrics and trends.
